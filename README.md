@@ -1,2 +1,2 @@
-# siny_blog
-Web_Programing
+# Hyoducku_Study
+Programing
