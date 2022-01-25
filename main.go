@@ -6,7 +6,5 @@ import (
 
 func main() {
 	fmt.Println("hello")
-
-	something.sayBye()
-	something.sayHello()
+	fmt.Println("bye")
 }
